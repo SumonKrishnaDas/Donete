@@ -1,0 +1,122 @@
+.top{
+
+
+    text-align: center;
+    color: white;
+    padding: 200px;
+}
+
+
+
+.top-banner{
+
+background-image: url(images/donation1.jpg);
+background-size: cover;
+}
+
+
+
+
+.btn{
+    position: absolute;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding:15px 40px;
+    border-radius: 10px;
+    margin-left: -80px;
+
+}
+
+
+.mid{
+
+
+
+    text-align: center;
+    
+
+}
+h1
+{
+
+    font-size:50px ;
+  
+}
+
+
+.flex{
+
+    display: flex;
+    margin-left: 250px;
+
+}
+.box{
+    padding: 10px 20px;
+
+   
+    margin: 0px 10px;
+    background-color: aliceblue;
+
+}
+
+.tk{
+border: 1px solid red ;
+background-color: rgb(190, 151, 151);
+
+
+
+}
+
+.h3{
+
+text-align: center;
+
+}
+hr{
+
+    width: 800px;
+}
+.center{
+position: relative;
+    text-align: center;
+text-decoration:none ;
+text-align: center;
+}
+.donate{
+
+    text-align: center;
+
+}
+.plan{
+
+
+    text-align:center;
+    padding: 0px 50px;
+}
+
+.flex1{
+
+
+
+    display: flex;
+    margin: 50px;
+
+}
+.card
+{
+    margin: 50px;
+    padding: 50px;
+    background-color: rgb(160, 145, 145);
+}
+
+.donate-today{
+padding: 100px;
+}
+.Education{
+
+
+    padding:0px 30px
+    margin:0px 50px;
+}
