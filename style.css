@@ -1,4 +1,4 @@
-.top{
+.top {
 
 
     text-align: center;
@@ -8,115 +8,183 @@
 
 
 
-.top-banner{
+.top-banner {
 
-background-image: url(images/donation1.jpg);
-background-size: cover;
+    background-image: url(images/donation1.jpg);
+    background-size: cover;
 }
 
 
 
 
-.btn{
+.btn {
     position: absolute;
     margin-top: 20px;
     text-decoration: none;
     background-color: tomato;
     color: white;
-    padding:15px 40px;
+    padding: 15px 40px;
     border-radius: 10px;
     margin-left: -80px;
 
 }
 
+.link-btn {
+    position: absolute;
 
-.mid{
+    text-decoration: none;
+    color: white;
+    padding: 15px 80px;
+    background-color: tomato;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+
+
+.mid {
 
 
 
     text-align: center;
-    
+
 
 }
-h1
-{
 
-    font-size:50px ;
-  
+h1 {
+
+    font-size: 50px;
+
 }
 
 
-.flex{
+.flex {
 
     display: flex;
     margin-left: 250px;
 
 }
-.box{
+
+.box {
     padding: 10px 20px;
 
-   
+
     margin: 0px 10px;
     background-color: aliceblue;
 
 }
 
-.tk{
-border: 1px solid red ;
-background-color: rgb(190, 151, 151);
+.tk {
+    border: 1px solid red;
+    background-color: rgb(190, 151, 151);
 
 
 
 }
 
-.h3{
+.h3 {
 
-text-align: center;
+    text-align: center;
 
 }
-hr{
+
+hr {
 
     width: 800px;
 }
-.center{
-position: relative;
+
+.center {
+    position: relative;
     text-align: center;
-text-decoration:none ;
-text-align: center;
+    text-decoration: none;
+    text-align: center;
 }
-.donate{
+
+.donate {
 
     text-align: center;
 
 }
-.plan{
+
+.plan {
 
 
-    text-align:center;
+    text-align: center;
     padding: 0px 50px;
 }
 
-.flex1{
+.flex1 {
 
 
 
     display: flex;
-    margin: 50px;
+    margin: 100px;
+    gap: 20px;
+
 
 }
-.card
-{
+
+.card {
     margin: 50px;
     padding: 50px;
     background-color: rgb(160, 145, 145);
 }
 
-.donate-today{
-padding: 100px;
+.donate-today {
+    padding: 100px;
 }
-.Education{
+
+.Education {
 
 
-    padding:0px 30px
-    margin:0px 50px;
+    padding: 0px 30px;
+    margin: 0px 50px;
+}
+
+.half-width {
+    /* height: 100px; */
+    width: 50%;
+    /* border: 1px solid black; */
+
+
+}
+
+.images {
+    height: 100%;
+    width: 100%;
+    border-radius: 40px;
+    background-size: cover;
+    padding: 0px;
+
+}
+
+.last {
+    text-align: center;
+    padding: 0px 100px;
+    margin-bottom: 50px;
+}
+
+.last-e {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form { 
+    padding: 50px 200px;
+    background-color: rgb(202, 157, 157);
+}
+.button{
+
+
+
+
+
+}
+.fcard{
+
+
+display:flex;
+
 }
